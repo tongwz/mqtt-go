@@ -1,0 +1,11 @@
+[app]
+port = 9879
+
+[api]
+is_check_sign = true
+is_check_ip = true
+sign_key = "76576076c1f5f657b634e966c8836a06"
+ip_white = [
+    "127.0.0.1",
+    "192.168.56.1"
+]
